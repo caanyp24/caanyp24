@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Hasan Coskun</h1>
+<h1 align="center">Hi 👋, I'm Can Yaprak</h1>
 <h3 align="center">A passionate frontend developer from Germany, cologne</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasancskn38&label=Profile%20views&color=0e75b6&style=flat" alt="hasancskn38" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=caanyp24&label=Profile%20views&color=0e75b6&style=flat" alt="hasancskn38" /> </p>
 
 - 🌱 I’m currently learning **Angular**
 
